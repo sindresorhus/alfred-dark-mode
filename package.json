@@ -1,0 +1,34 @@
+{
+  "name": "alfred-dark-mode",
+  "version": "0.0.0",
+  "description": "Alfred 3 workflow to toggle the system dark mode",
+  "license": "MIT",
+  "repository": "sindresorhus/alfred-dark-mode",
+  "author": {
+    "name": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "sindresorhus.com"
+  },
+  "engines": {
+    "node": ">=4"
+  },
+  "scripts": {
+    "postinstall": "alfred-link",
+    "preuninstall": "alfred-unlink"
+  },
+  "files": [
+    "icon.png",
+    "info.plist"
+  ],
+  "keywords": [
+    "alfred",
+    "workflow",
+    "alfy",
+    "dark",
+    "mode",
+    "system"
+  ],
+  "dependencies": {
+    "alfred-link": "^0.2.0"
+  }
+}
