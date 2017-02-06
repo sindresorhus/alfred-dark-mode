@@ -1,6 +1,6 @@
 {
   "name": "alfred-dark-mode",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Alfred 3 workflow to toggle the system dark mode",
   "license": "MIT",
   "repository": "sindresorhus/alfred-dark-mode",
