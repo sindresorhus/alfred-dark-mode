@@ -29,6 +29,8 @@ The theme in the screenshot is [alfred-simple](https://github.com/sindresorhus/a
 - [dark-mode](https://github.com/sindresorhus/dark-mode) - Control the system dark mode from the command-line
 - [alfred-emoj](https://github.com/sindresorhus/alfred-emoj) - Find relevant emoji from text
 - [alfred-npms](https://github.com/sindresorhus/alfred-npms) - Search for npm packages with npms.io
+- [alfred-xcode](https://github.com/sindresorhus/alfred-xcode) - Open Xcode projects and workspaces
+- [alfy](https://github.com/sindresorhus/alfy) - Create Alfred workflows with ease
 
 
 ## License
