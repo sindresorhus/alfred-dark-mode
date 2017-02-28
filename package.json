@@ -13,8 +13,8 @@
     "node": ">=4"
   },
   "scripts": {
-    "postinstall": "alfred-link",
-    "preuninstall": "alfred-unlink"
+    "postinstall": "alfy-init",
+    "preuninstall": "alfy-cleanup"
   },
   "files": [
     "icon.png",
@@ -29,6 +29,6 @@
     "system"
   ],
   "dependencies": {
-    "alfred-link": "^0.2.0"
+    "alfy": "^0.6.0"
   }
 }
