@@ -11,6 +11,8 @@
 $ npm install --global alfred-dark-mode
 ```
 
+or [download the alfred workflow](https://github.com/HazCod/alfred-dark-mode/raw/master/darktoggle.alfredworkflow)
+
 *Requires the Alfred [Powerpack](https://www.alfredapp.com/powerpack/).*
 
 
