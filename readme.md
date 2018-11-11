@@ -2,7 +2,7 @@
 
 > [Alfred 3](https://www.alfredapp.com) workflow to toggle the system dark mode
 
-<img src="screenshot.gif" width="696">
+<img src="screenshot.gif" width="696" height="280">
 
 
 ## Install
