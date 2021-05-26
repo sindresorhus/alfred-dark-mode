@@ -1,9 +1,8 @@
 # alfred-dark-mode <img src="icon.png" width="40">
 
-> [Alfred 3](https://www.alfredapp.com) workflow to toggle the system dark mode
+> [Alfred](https://alfredapp.com) workflow to toggle the system dark mode
 
 <img src="screenshot.gif" width="696" height="280">
-
 
 ## Install
 
@@ -13,16 +12,13 @@ $ npm install --global alfred-dark-mode
 
 *Requires the Alfred [Powerpack](https://www.alfredapp.com/powerpack/).*
 
-
 ## Usage
 
 In Alfred, type `dark` and then press <kbd>Enter</kbd>.
 
-
 ## Tip
 
 The theme in the screenshot is [alfred-simple](https://github.com/sindresorhus/alfred-simple).
-
 
 ## Related
 
@@ -31,8 +27,3 @@ The theme in the screenshot is [alfred-simple](https://github.com/sindresorhus/a
 - [alfred-npms](https://github.com/sindresorhus/alfred-npms) - Search for npm packages with npms.io
 - [alfred-xcode](https://github.com/sindresorhus/alfred-xcode) - Open Xcode projects and workspaces
 - [alfy](https://github.com/sindresorhus/alfy) - Create Alfred workflows with ease
-
-
-## License
-
-MIT © [Sindre Sorhus](https://sindresorhus.com)

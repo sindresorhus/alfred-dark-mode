@@ -1,13 +1,13 @@
 {
 	"name": "alfred-dark-mode",
 	"version": "2.0.0",
-	"description": "Alfred 3 workflow to toggle the system dark mode",
+	"description": "Alfred workflow to toggle the system dark mode",
 	"license": "MIT",
 	"repository": "sindresorhus/alfred-dark-mode",
 	"author": {
 		"name": "Sindre Sorhus",
 		"email": "sindresorhus@gmail.com",
-		"url": "sindresorhus.com"
+		"url": "https://sindresorhus.com"
 	},
 	"engines": {
 		"node": ">=8"
